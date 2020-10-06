@@ -79,10 +79,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="Create project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1602008312041">
+    <state x="552" y="43" key="#Deployment" timestamp="1602009726558">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602008312041" />
+    <state x="552" y="43" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1602009726558" />
+    <state x="585" y="114" width="749" height="540" key="CommitChangelistDialog2" timestamp="1602009732776">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="114" width="749" height="540" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602009732776" />
     <state x="1220" y="265" key="FileChooserDialogImpl" timestamp="1602007401474">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
