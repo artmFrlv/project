@@ -2,18 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c27b7f5-6dbd-44c5-abce-069abd0460e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/checkers/Alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/checkers/Board.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/checkers/Cell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/checkers/Character.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/checkers/CharacterSelection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/checkers/Checkers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/checkers/Game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/checkers/Winner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/main/Body.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/main/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/main/Cards.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/main/Footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/main/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/main/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/tetris/Board.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/tetris/Cell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/tetris/Tetris.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ticTacToe/Alert.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ticTacToe/Board.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ticTacToe/Character.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ticTacToe/CharacterSelection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ticTacToe/Game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ticTacToe/Square.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ticTacToe/TicTacToe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ticTacToe/Winner.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/blocks/brown.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/blocks/white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/recycle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actionCreators/checkers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actionCreators/tetris.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actionCreators/ticTacToe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actionTypes/checkers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actionTypes/tetris.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actionTypes/ticTacToe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/initialState/checkers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/initialState/tetris.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/initialState/ticTacToe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/reducerOfCheckers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/reducerOfTetris.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/reducerOfTicTacToe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/characterSelection.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/checkers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/tetris.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/ticTacToe.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iVyhv5Our2BepWkfKIXJOb6v8f" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,7 +91,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images/blocks" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -33,6 +102,22 @@
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Artem\Desktop\project\src\images\blocks" />
+      <recent name="C:\Users\Artem\Desktop\project\src\components\checkers" />
+      <recent name="C:\Users\Artem\Desktop\project\src\components\ticTacToe" />
+      <recent name="C:\Users\Artem\Desktop\project\src\components\main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Artem\Desktop\project\src\components\general\characterSelection" />
+      <recent name="C:\Users\Artem\Desktop\project\src\games" />
+      <recent name="C:\Users\Artem\Desktop\project\src\images" />
+      <recent name="C:\Users\Artem\Desktop\project\src\styles" />
+      <recent name="C:\Users\Artem\Desktop\project\src\main" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -60,6 +145,21 @@
       <option name="presentableId" value="Default" />
       <updated>1602007176197</updated>
       <workItem from="1602007177607" duration="1917000" />
+      <workItem from="1602009557666" duration="42100000" />
+      <workItem from="1603034823440" duration="64360000" />
+      <workItem from="1603739799800" duration="23097000" />
+      <workItem from="1603918276348" duration="23230000" />
+      <workItem from="1604096853545" duration="6557000" />
+      <workItem from="1604242550960" duration="20224000" />
+      <workItem from="1604447914543" duration="1556000" />
+      <workItem from="1604502202748" duration="756000" />
+      <workItem from="1604785512215" duration="17263000" />
+      <workItem from="1605054762452" duration="594000" />
+      <workItem from="1605139050298" duration="17951000" />
+      <workItem from="1605228799469" duration="11029000" />
+      <workItem from="1605311642437" duration="6129000" />
+      <workItem from="1605746397287" duration="2436000" />
+      <workItem from="1612705481611" duration="638000" />
     </task>
     <task id="LOCAL-00001" summary="Create project">
       <created>1602008312902</created>
@@ -68,40 +168,75 @@
       <option name="project" value="LOCAL" />
       <updated>1602008312902</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create project">
+      <created>1602009679305</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602009679305</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create project">
+      <created>1602009783982</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602009783982</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create project" />
     <option name="LAST_COMMIT_MESSAGE" value="Create project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="43" key="#Deployment" timestamp="1602009726558">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604358835111">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="43" key="#Deployment/0.0.1920.1040@0.0.1920.1040" timestamp="1602009726558" />
-    <state x="585" y="114" width="749" height="540" key="CommitChangelistDialog2" timestamp="1602009732776">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604358835111" />
+    <state x="585" y="214" key="CommitChangelistDialog2" timestamp="1612707398845">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" width="749" height="540" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602009732776" />
-    <state x="1220" y="265" key="FileChooserDialogImpl" timestamp="1602007401474">
+    <state x="585" y="214" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1612707398845" />
+    <state width="1899" height="140" key="GridCell.Tab.0.bottom" timestamp="1605815977919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1220" y="265" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602007401474" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1602007857092">
+    <state width="1899" height="140" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605815977919" />
+    <state width="1899" height="140" key="GridCell.Tab.0.center" timestamp="1605815977919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1602007857092" />
-    <state x="552" y="241" key="Vcs.Push.Dialog.v2" timestamp="1602008395270">
+    <state width="1899" height="140" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605815977919" />
+    <state width="1899" height="140" key="GridCell.Tab.0.left" timestamp="1605815977919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="241" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602008395270" />
-    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602009660582">
+    <state width="1899" height="140" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605815977919" />
+    <state width="1899" height="140" key="GridCell.Tab.0.right" timestamp="1605815977919">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602009660582" />
+    <state width="1899" height="140" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605815977919" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1605746803369">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605746803369" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605159230220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605159230220" />
   </component>
 </project>

@@ -1,0 +1,60 @@
+.main {
+  display: grid;
+  grid-template-areas: ". header ." "myContent myContent myContent" ". footer .";
+  grid-template-rows: 1fr 11fr 1fr;
+  grid-template-columns: 1fr 8fr 1fr;
+  height: 100vh;
+  margin: 0;
+  background-image: url("../images/main.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  .body {
+    grid-area: myContent;
+
+    .cards {
+      display: grid;
+      grid-template-rows: 40% 40%;
+      grid-template-columns: 20% 20% 20%;
+      height: 100%;
+      grid-gap: 20px;
+      justify-content: space-around;
+      align-content: space-around;
+
+      .card {
+        background: aqua;
+      }
+    }
+  }
+  .header {
+    display: grid;
+    grid-template-areas:
+        'text link';
+    grid-area: header;
+    background: green;
+    grid-template-columns: 10% 10%;
+    justify-content: space-between;
+
+    .text {
+      grid-area: text;
+    }
+
+    .link {
+      grid-area: link;
+    }
+  }
+
+  .footer {
+    grid-area: footer;
+    background: blue;
+  }
+}
+
+@media all and (max-width: 500px) {
+  grid-template-areas:
+          "header"
+          "body"
+          "footer";
+  grid-template-rows: 60px 1fr 60px;
+  grid-template-columns: 10% 1fr 10%;
+}

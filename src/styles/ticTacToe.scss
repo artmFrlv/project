@@ -1,0 +1,139 @@
+.ticTacToe {
+  grid-area: myContent;
+  display: grid;
+  grid-template-areas: 'choose game choose';
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1em;
+  justify-items: center;
+  align-items: center;
+
+  .game {
+    display: grid;
+    grid-template-areas: 'winner' 'board' 'alert';
+    grid-template-rows: 1fr 9fr 1fr;
+    justify-items: center;
+    align-items: center;
+    grid-gap: 2px;
+
+    .winner {
+      grid-area: winner;
+      display: grid;
+      grid-template-areas: 'text recycle';
+      grid-template-columns: 3fr 1fr;
+      grid-template-rows: 1fr;
+      align-self: stretch;
+      justify-self: stretch;
+
+      .text {
+        grid-area: text;
+        font-size: 25px;
+        font-weight: bold;
+        font-family: sans-serif;
+        color: white;
+      }
+
+      .recycle {
+        grid-area: recycle;
+        background-image: url("../images/recycle.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: right;
+      }
+    }
+
+    .board {
+      display: grid;
+      grid-area: board;
+      height: 100%;
+      margin: 0;
+      grid-template-rows: 150px 150px 150px;
+      grid-template-columns: 150px 150px 150px;
+
+      .square {
+        border: 4px solid #ffffff;
+      }
+    }
+
+    .alert {
+      grid-area: alert;
+      font-size: 25px;
+      font-weight: bold;
+      align-self: center;
+      font-family: sans-serif;
+      color: white;
+    }
+  }
+}
+
+.steve {
+  background-image: url("../images/characters/steve.svg");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 2;
+}
+
+.zombie {
+  background-image: url("../images/characters/zombie.svg");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 2;
+}
+
+.cow {
+  background-image: url("../images/characters/cow.svg");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 2;
+}
+
+.creeper {
+  background-image: url("../images/characters/creeper.svg");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 2;
+}
+
+.enderman {
+  background-image: url("../images/characters/enderman.svg");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 2;
+}
+
+.farmer {
+  background-image: url("../images/characters/farmer.svg");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 2;
+}
+
+.sheep {
+  background-image: url("../images/characters/sheep.svg");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 2;
+}
+
+.skeleton {
+  background-image: url("../images/characters/skeleton.svg");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 2;
+}
+
+.spider {
+  background-image: url("../images/characters/spider.svg");
+  background-size: 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  z-index: 2;
+}
