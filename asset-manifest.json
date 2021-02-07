@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/project/static/css/main.93fd8782.chunk.css",
+    "main.js": "/project/static/js/main.ce412656.chunk.js",
+    "main.js.map": "/project/static/js/main.ce412656.chunk.js.map",
+    "runtime-main.js": "/project/static/js/runtime-main.102d06f0.js",
+    "runtime-main.js.map": "/project/static/js/runtime-main.102d06f0.js.map",
+    "static/js/2.111d95fc.chunk.js": "/project/static/js/2.111d95fc.chunk.js",
+    "static/js/2.111d95fc.chunk.js.map": "/project/static/js/2.111d95fc.chunk.js.map",
+    "index.html": "/project/index.html",
+    "precache-manifest.688e993071a3b47232c98c3f3b63d9aa.js": "/project/precache-manifest.688e993071a3b47232c98c3f3b63d9aa.js",
+    "service-worker.js": "/project/service-worker.js",
+    "static/css/main.93fd8782.chunk.css.map": "/project/static/css/main.93fd8782.chunk.css.map",
+    "static/js/2.111d95fc.chunk.js.LICENSE.txt": "/project/static/js/2.111d95fc.chunk.js.LICENSE.txt",
+    "static/media/checkers.scss": "/project/static/media/white.13980704.svg",
+    "static/media/ticTacToe.scss": "/project/static/media/zombie.2b4cf4f9.svg",
+    "static/media/app.scss": "/project/static/media/main.f6b65cd6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.102d06f0.js",
+    "static/js/2.111d95fc.chunk.js",
+    "static/css/main.93fd8782.chunk.css",
+    "static/js/main.ce412656.chunk.js"
+  ]
+}
